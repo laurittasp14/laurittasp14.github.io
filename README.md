@@ -62,22 +62,19 @@ Metodología de desarrollo de productos multimedia basado en una metodología de
 
 ### Etapa 1: Ideación de proyecto
 
-**Investigación de campo** (propuestas inspiradoras para el proyecto)
-
-- Portfolio [Leonardi Web page](http://www.rleonardi.com/interactive-resume/) para idear cómo organizar el material
-- 
-
-
+**Investigación de campo**
+En lo que es el diseño del videojuego no he tenido ningun referente en concreto, simplemente me he regido por el  prototipo de videojuegos de preguntas.
+Por otro lado , a la hora de buscar la información para la realización de las preguntas si que he ido buscando información en páginas horoscopales y en uentas de redes sociales destinadas a ello. 
 
 **Motivación de la propuesta** 
-
-Este  proyecto es interesante porque ... 
+En cuanto se  explicó las diferentes propuestas de videojuegos yo desde un principio tenia claro  que  seria de  preguntas y respuestas. Tanto el tema como la realización de ello vino despu. A la hora de pensar temas tuve más dudas pero tampoco tardé mucho en elegir los horóscopos como el tema principal de este proyecto.
+Aunque los horóscopos me llaman la atención he de decir que no soy una experta nata de ellos, de hecho se bastante poco, pero fue eso mismo un motivo para indagar mas en este tema.  Tanto los simbolos como las constelaciones, curiosi, fechas, características,etc.
 
 
 
 **Publico / audiencia**
 
-- Orientado a 
+-  Mayores de   6 años, especialmente públic interesado en temas astrológico de este tipo.
 
 
 
@@ -85,9 +82,13 @@ Este  proyecto es interesante porque ...
 
 ### Etapa 2: Desarrollo / actividades realizadas
 
-(qué soluciones has planteado y cómo se han resuelto: juego, galería de fotos, grabación de video, etc.)
-
 - Juego. 
+Lo primero que hice para la realización de este juego fue buscar imágenes e información para hacerme una idea de como podria estructurarlo. Tras ello, realicé mi pantalla inicial en la que los simbolos horoscopales harían una abertura hacia el boton "EMPEZAR" de mi juego. Una vez hecho esto en la qque guí descubriendo y jugando con la linea de tiempo llegé a mi siguiente escena: "MENÚ", en la que la organicé en tres botones que llevarian a tes escenas diferentes; "HORÓSCOPOS" y "CURIOSIDADES" que a trabes de condicionales boolean realicé una presentación de  los  horóscopos que compondrian mi juego y curiosidades de ellos. Por otrolado, en el menú se encuentra el botón  "EMPEZAR" que daria comienzo a mi juego.
+Tras decidir la 15 preguntas de las que iba a  estar compuesto mi juego, realicé 15 escenas una para cada una de las preguntas en las que se encontrarian 3 respuestas. De esas 3 respuestas dod de ellas serian incorrectas lo cual llevarian tras ser pulsadas a la escena siguiente. Al principio mi juego se iba a quedar ahí simplemente pero posteriormente  le di vueltas a alguna manera en la que introducir una interacción que hiciese mi juego mas dinámico y complejo en lo referente a programación . Por ello decidí que tras pulsarse el botón correcto estos botones se harian invisibles y se harian visibles 4 nuevos . Tres de ellos serian el simbolo de cada respuesta y el otro seria una caja. El objetivo de este era que al pulsar el botón con el ratón en la opción correcta este permitiria moverse hasta la caja y al colisionar  pasaría a la siguiente escena.  
+
+
+
+
 - Video 
 - Instrucciones y ayuda al usuario 
 - Menús y elementos de navegación (botones)
