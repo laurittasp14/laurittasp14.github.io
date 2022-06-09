@@ -1,6 +1,6 @@
 # cmi22
 
-## (Nombre del proyectof)
+## ¿CUÁNTO SABES DE LOS HORÓSCOPOS?
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
@@ -49,16 +49,12 @@ Este videojuego trata de mostrar tus conocimientos sobre los Horóscopos a trav�
 ### 2.2. Esquema de navegación 
 
 
+![Esquema de navegación y storyboard Laura Sánchez Poyatos 2 E](https://user-images.githubusercontent.com/106830381/172800541-b4385930-dd97-4052-94c9-0c736758be64.jpeg)
 
-(imagen con las distintas pantallas de navegación, usa draw.io o cualquier programa de dibujo)
-
-
-
+Necesaria modificación por nuevas actualizaciones en su desarrollo.
 
 
-
-
-# 3. Metodología
+# 3. Metodolog
 
 Metodología de desarrollo de productos multimedia basado en una metodología de UX (User Experience)
 
