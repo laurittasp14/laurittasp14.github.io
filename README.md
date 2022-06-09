@@ -1,25 +1,24 @@
 # cmi22
 
-## (Nombre del proyecto)
+## (Nombre del proyectof)
 
 Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de la Univesidad de Granada
 
 
 # 1 Datos 
 
-**Titulo** : MI Proyecto(nombre)
+**Titulo** :  ¿Cuánto sabes de los Horóscopos?
 
-**Web:**   (url github.io)
+*Web:**   (url github.io)
 
-**Autor:**  (Nombre apellidos)
+**Autor:** Laura Sánchez Poyatos
 
-**Resumen** : Este proyecto busca contar las hitorias de migrantes jóvenes, siendo ellos mismos los protagonistas. Esta será una compilación de relatos y crónicas de sus experiencias, exponiendo su lucha de identidad y sentido de pertenencia, herencia migratoria, entre otros temas que abrirán un debate del tema.
+**Resumen** : Este proyecto se intenta demostrar tu conocimiento sobre los horóscopos a través de 15 preguntas.
 
-**Estilo/género:**  Novela / juego / portfolio / documental... etc.
+**Estilo/género:**  Juego de Preguntas, conocimiento, astrología, horóscopos...
+**Logotipo** : 
+![logotipo](https://user-images.githubusercontent.com/106830381/172795459-4ef3a27b-3222-4334-b479-e0a3f76a735e.jpg)
 
-**Logotipo** : (insertar imagen y breve justificación, si  tiene) 
-
-(insertar imágenes a resolucion de 100px alto)
 
 **Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
