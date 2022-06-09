@@ -17,10 +17,9 @@ Proyecto de Creación Multimedia Interactiva de la  Facultad de Bellas Artes de 
 
 **Estilo/género:**  Juego de Preguntas, conocimiento, astrología, horóscopos...
 **Logotipo** : 
+
+
 ![logotipo](https://user-images.githubusercontent.com/106830381/172795459-4ef3a27b-3222-4334-b479-e0a3f76a735e.jpg)
-
-
-**Resolución:** 800x600px responsivo/o tamaño fijo (indicar la que has aplicado, y si es reescalable)
 
 **Probado en:**   (indicar dónde has probado que funciona: ej. Google Chrome / MS Edge... /móviles android )
 
