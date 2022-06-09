@@ -102,7 +102,7 @@ Dentro de los errores se encuentras modificadiones que en la exportación se han
 
 # 4. Conclusiones 
 
-Me ha parecido un proyecto muy interesante  por el poco tiempo sobre todo al final agobió un poco pero estoy muy contenta con el resultado. Considero que ante dodo problema he encontrado una solución que ha acabado mejorando mi proyecto. En lo que más complicación he encontrado ha sido el tema de la escena de configuración y  por otro lado,  la repetición de la creación de variables, funciones e interacciones ha requerido bastante esfuerzo y concentración porque cuanquier error hace que no funcione. Me ha fastidiado que la aplicación a la hora de exportar el proyecto de bastantes problemas ya que dentro de la app no pasa pero aun asi me quedo con un buen sabor de boca .
+Me ha parecido un proyecto muy interesante  por el poco tiempo sobre todo al final agobió un poco pero estoy muy contenta con el resultado. Considero que ante dodo problema he encontrado una solución que ha acabado mejorando mi proyecto. En lo que más complicación he encontrado ha sido el tema de la escena de configuración y  por otro lado,  la repetición de la creación de variables, funciones e interacciones ha requerido bastante esfierzo y concentración porque cuanquier error luego para rectificarlo era muy dificil al haber tantas variables. Me frustra bastante los errores y modificaciones que se producen al exportar el videojuego tanto como que la app al ser de pago era dificil seguir en casa pero aun así me quedo con un buen sabor de boca.
 
 
 
