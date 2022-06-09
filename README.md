@@ -88,22 +88,21 @@ Lo primero que hice para la realización de este juego fue buscar imágenes e in
 
 
 
-- Video 
+- Video
+-Para el video  pimero importé un video extraido de youtube para poder darle funciones a los botones que correspondian a la reproducción del vodeo y a la barra de volumen y posteriormente una vez hecho el video tutorial tlo intercambié por este.
 - Instrucciones y ayuda al usuario 
+Para poder jugar a este juego simplemente hay que darle al botón empezar en el menú y hacer clic en el boton de la respuesta correcta que creas adecuada. En la segunda parte solamente pulsar en  la respuesta correcta mover hasta situar la imagen encima de la caja y volver a pulsar.
 - Menús y elementos de navegación (botones)
-- etc.
-
-
+El menú como anteriormente he dicho está compuesto por 5 botones; volumen, configuración, Horóscopos, Curiosidades y Empezar. Los botones posteriores al menú establecen cada uno una función. Los he querido difenrenciar en los blancos como respuestas, las imágenes como símbolos, y el botón cada de cada una de las escenas para volver al menú. En cuanto a la presentaciones los botonoes de las flechas para pasar de imagen donde se encuentran las funciones correspondientes para su funcionamient.
 
 ### Etapa 3: Problemas identificados
-
-(que consideras que no  funciona correctamente y por qué )
+Dentro de los errores se encuentras modificadiones que en la exportación se han cnvertido en errores pero sin embargo el archibo reproducido en la aplicadión no existen esto y por otro lado dentro de esta aplicación al ampliarse la vista de la pantalla los botones de los símbolos de las imágenes se modifican, cosa que no he sido capaz de arregar. Y otro problema es el pause de la musica tras darle al botón empezar del menú.
 
 
 
 # 4. Conclusiones 
 
-(explica brevemente tu valoración, problemas que has detectado y que te gustaría hacer o mejorar en el futuro )
+Me ha parecido un proyecto muy interesante  por el poco tiempo sobre todo al final agobió un poco pero estoy muy contenta con el resultado. Considero que ante dodo problema he encontrado una solución que ha acabado mejorando mi proyecto. En lo que más complicación he encontrado ha sido el tema de la escena de configuración y  por otro lado,  la repetición de la creación de variables, funciones e interacciones ha requerido bastante esfuerzo y concentración porque cuanquier error hace que no funcione. Me ha fastidiado que la aplicación a la hora de exportar el proyecto de bastantes problemas ya que dentro de la app no pasa pero aun asi me quedo con un buen sabor de boca .
 
 
 
@@ -113,25 +112,19 @@ Lo primero que hice para la realización de este juego fue buscar imágenes e in
 
 # 5 Referencias 
 
-**Artículos y blogs ** 
-
-- Crofts, S., Fox, M., Retsema, A. and Williams, B. (2005) *Podcasting: A new technology in search of viable business models*First Monday, 10(9). https://doi.org/10.5210/fm.v10i9.1273. Recuperado el 8 de abril de 2020 de: https://journals.uic.edu/ojs/index.php/fm/article/view/1273/1193
-
 **Recursos y materiales audiovisuales:**
 
-* Musica:  
-* Imágenes:  
-* Tipografía
+* Musica:  Musica ambiente
+* Imágenes:  Goolgle Chrome
+* Tipografía  ArialBlack 
 
 **Herramientas utilizadas**
 
 - Hippani Animator 5.1
-- 
+-  Adobe PhotoShop 2022
+-  Paint
 
 
 
-(imagen de la licencia, copiar y pegar aquí la correcta)
 
-https://creativecommons.org/licenses/?lang=es
-
-Mayo 2020
+Junio 2022
